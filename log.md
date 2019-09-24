@@ -8,7 +8,7 @@
 
 **Link to work:** [ReactJS](https://www.codecademy.com)
 
-### Day 1: September 23, 2019
+### Day 1: September 24, 2019
 
 **Today's Progress**: TBD.
 
