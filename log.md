@@ -15,3 +15,11 @@
 **Thoughts**: Tealium continues to be frustrating but the script above makes a manual sync happen in seconds.
 
 **Link(s) to work**: [Alfred Python Script](https://github.com/DrewDouglass/GenerateHours), [My Portfolio](https://creatingdrew.com)
+
+### Day 2: September 25, 2019
+
+**Today's Progress**: Made it through 8, and counting, lessons of Advanced JSX on Codecademy.
+
+**Thoughts**: Having fun :smile:
+
+**Link(s) to work**: [Codecademy](https://www.codecademy.com)
