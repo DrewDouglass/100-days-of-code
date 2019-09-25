@@ -18,7 +18,7 @@
 
 ### Day 2: September 25, 2019
 
-**Today's Progress**: Made it through 8, and counting, lessons of Advanced JSX on Codecademy. 
+**Today's Progress**: Made it through ~~8~~ 16, and counting, lessons of Advanced JSX on Codecademy. 
 
 **Thoughts**: Having fun :smile: Got distracted a bit wondering if there was a new "latest and greatest" course I should be going through. Fought through that and remembered sticking with something is more important.
 
