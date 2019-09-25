@@ -10,8 +10,8 @@
 
 ### Day 1: September 24, 2019
 
-**Today's Progress**: Wrote a quick Python script that is called by Alfred to generate 24 hour date formats for me (needed for my 9-5).
+**Today's Progress**: Wrote a quick Python script that is called by Alfred to generate 24 hour date formats for me (needed for my 9-5). [Updated my portfolio](https://creatingdrew.com) to be more accessible. Completed a pull request for ES6 JS that sends slack alerts depending on a feature in WordPress.
 
-**Thoughts**: Tealum continues to be frustrating but the script above makes a manual sync happen in seconds.
+**Thoughts**: Tealium continues to be frustrating but the script above makes a manual sync happen in seconds.
 
-**Link(s) to work**: [Alfred Python Script](https://github.com/DrewDouglass/GenerateHours)
+**Link(s) to work**: [Alfred Python Script](https://github.com/DrewDouglass/GenerateHours), [My Portfolio](https://creatingdrew.com)
