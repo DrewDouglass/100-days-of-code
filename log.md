@@ -23,3 +23,11 @@
 **Thoughts**: Having fun :smile: Got distracted a bit wondering if there was a new "latest and greatest" course I should be going through. Fought through that and remembered sticking with something is more important.
 
 **Link(s) to work**: [Codecademy](https://www.codecademy.com)
+
+### Day 3: September 30, 2019
+
+**Today's Progress**: Multiple courses on advanced React.
+
+**Thoughts**: Progress has been delayed due to some life events. Keep on truckin'.
+
+**Link(s) to work**: [Codecademy](https://www.codecademy.com)
