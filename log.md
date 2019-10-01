@@ -26,8 +26,10 @@
 
 ### Day 3: September 30, 2019
 
-**Today's Progress**: Multiple courses on advanced React.
+**Today's Progress**: Multiple courses on advanced React. 100% on Advanced JSX quiz. 
 
-**Thoughts**: Progress has been delayed due to some life events. Keep on truckin'.
+![alt-text](https://i.imgur.com/rJkXO9G.png "Advanced JSX Quiz Results - 100%")
+
+**Thoughts**: Progress has been delayed due to some life events. Keep on truckin'. 
 
 **Link(s) to work**: [Codecademy](https://www.codecademy.com)
