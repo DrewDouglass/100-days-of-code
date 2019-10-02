@@ -36,7 +36,7 @@
 
 ### Day 4: October 1, 2019
 
-**Today's Progress**: Advanced React Component Courses. 9 courses be end of night.
+**Today's Progress**: Advanced React Component Courses. ~~9~~ 16 courses by end of night.
 
 **Thoughts**: Really enjoying working with React every night. Think it would be a good idea to build one of my new side projects in React. 
 
