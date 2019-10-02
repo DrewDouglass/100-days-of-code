@@ -33,3 +33,11 @@
 **Thoughts**: Progress has been delayed due to some life events. Keep on truckin'. 
 
 **Link(s) to work**: [Codecademy](https://www.codecademy.com)
+
+### Day 4: October 1, 2019
+
+**Today's Progress**: Advanced React Component Courses. 9 courses be end of night.
+
+**Thoughts**: Really enjoying working with React every night. Think it would be a good idea to build one of my new side projects in React. 
+
+**Link(s) to work**: [Codecademy](https://www.codecademy.com)
