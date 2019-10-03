@@ -48,6 +48,6 @@
 
 ![alt-text](https://i.imgur.com/eWYSXTP.png "Advanced React Component Quiz Results - 100%")
 
-**Thoughts**: A few React quirks I still am trying to figure out, but the form works. Had to take the quiz a few times to re-inforce correct theory.
+**Thoughts**: A few React quirks I still am trying to figure out, but the form works. Had to take the quiz a few times to reinforce correct theory.
 
 **Link(s) to work**: [My GitHub](https://github.com/DrewDouglass)
