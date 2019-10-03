@@ -44,8 +44,10 @@
 
 ### Day 5: October 2, 2019
 
-**Today's Progress**: React Component - built a POC authorization form.
+**Today's Progress**: React Component - built a POC authorization form. Took a quiz on React components, see screenshot.
 
-**Thoughts**: A few React quirks I still am trying to figure out, but the form works.
+![alt-text](https://i.imgur.com/eWYSXTP.png "Advanced React Component Quiz Results - 100%")
+
+**Thoughts**: A few React quirks I still am trying to figure out, but the form works. Had to take the quiz a few times to re-inforce correct theory.
 
 **Link(s) to work**: [My GitHub](https://github.com/DrewDouglass)
