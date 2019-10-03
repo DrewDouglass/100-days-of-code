@@ -41,3 +41,11 @@
 **Thoughts**: Really enjoying working with React every night. Think it would be a good idea to build one of my new side projects in React. 
 
 **Link(s) to work**: [Codecademy](https://www.codecademy.com)
+
+### Day 5: October 2, 2019
+
+**Today's Progress**: React Component - built a POC authorization form.
+
+**Thoughts**: A few React quirks I still am trying to figure out, but the form works.
+
+**Link(s) to work**: [My GitHub](https://github.com/DrewDouglass)
